@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-//
+// Program to convert old Pound's-Shillings-Pence format to Decimal Pound
 int main(){ 
  
 	float pounds, shillings, pence;
